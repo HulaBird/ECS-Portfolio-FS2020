@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the ECS Portfolio
 
 You can use the [editor on GitHub](https://github.com/HulaBird/ECS-Portfolio-FS2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
